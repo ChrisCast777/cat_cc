@@ -1,0 +1,42 @@
+{
+  "equipos": [
+    {
+      "nombre": "PC Gamer",
+      "precio": 19999,
+      "imagen": "img/pc_gamer.jpg",
+      "descripcion": {
+        "procesador": "AMD Ryzen 7 5800X",
+        "ram": "16GB DDR4",
+        "almacenamiento": "1TB SSD NVMe",
+        "motherboard": "ASUS ROG Strix B550-F",
+        "tarjeta_grafica": "NVIDIA RTX 3070"
+      }
+    },
+    {
+      "nombre": "PC Oficina",
+      "precio": 7999,
+      "imagen": "img/pc_oficina.jpg",
+      "descripcion": {
+        "procesador": "Intel Core i5-12400",
+        "ram": "8GB DDR4",
+        "almacenamiento": "500GB SSD",
+        "motherboard": "Gigabyte H610M",
+        "tarjeta_grafica": "No incluida"
+      }
+    }
+  ],
+  "licencias": [
+    {
+      "nombre": "Windows 10 Pro",
+      "precio": 299,
+      "imagen": "img/windows_10.jpg",
+      "descripcion": "Licencia original de Windows 10 Pro para un equipo."
+    },
+    {
+      "nombre": "Microsoft Office 365",
+      "precio": 599,
+      "imagen": "img/office_365.jpg",
+      "descripcion": "Licencia anual para Office 365 (Word, Excel, PowerPoint)."
+    }
+  ]
+}
