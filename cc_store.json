@@ -3,7 +3,7 @@
     {
       "nombre": "PC Gamer",
       "precio": 19999,
-      "imagen": "img/pc_gamer.jpg",
+      "imagen": "img/HPEliteDesk705G5.png",
       "descripcion": {
         "procesador": "AMD Ryzen 7 5800X",
         "ram": "16GB DDR4",
@@ -15,7 +15,7 @@
     {
       "nombre": "PC Oficina",
       "precio": 7999,
-      "imagen": "img/pc_oficina.jpg",
+      "imagen": "img/AllInOneDell7450.png",
       "descripcion": {
         "procesador": "Intel Core i5-12400",
         "ram": "8GB DDR4",
@@ -29,13 +29,13 @@
     {
       "nombre": "Windows 10 Pro",
       "precio": 299,
-      "imagen": "img/windows_10.jpg",
+      "imagen": "img/windows_10.png",
       "descripcion": "Licencia original de Windows 10 Pro para un equipo."
     },
     {
       "nombre": "Microsoft Office 365",
       "precio": 599,
-      "imagen": "img/office_365.jpg",
+      "imagen": "img/office_365.png",
       "descripcion": "Licencia anual para Office 365 (Word, Excel, PowerPoint)."
     }
   ]
